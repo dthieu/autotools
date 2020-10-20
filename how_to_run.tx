@@ -1,0 +1,5 @@
+$ autoreconf -i # execute configure.ac to create env
+$ ./configure   # setting env variable
+$  make         # build program
+$ ./hello       # run program
+
