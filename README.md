@@ -1,2 +1,2 @@
 # autotools
-ex using autotools
+example using autotools
